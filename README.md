@@ -66,7 +66,7 @@ Este projeto permite que gestores de RH:
 ## 📊 Arquivo de Exemplo
 
 Baixe o modelo pronto para uso:  
-[Desempenho X Absenteismo Exemplo.xlsx](exemplos/Desempenho%20X%20Absenteismo%20Exemplo.xlsx)
+[Desempenho X Absenteismo Exemplo.xlsx](./Desempenho%20X%20Absenteismo%20Exemplo.xlsx)
 
 ### Estrutura:
 | Código do Funcionário | Taxa de Absenteísmo (%) | Resultado da Avaliação de Desempenho |
@@ -77,4 +77,3 @@ Baixe o modelo pronto para uso:
 
 *(Deixe vazio onde desejar previsões)*
 
-🔹 [Download direto](https://github.com/seu-usuario/seu-repo/raw/main/exemplos/Desempenho%20X%20Absenteismo%20Exemplo.xlsx)
