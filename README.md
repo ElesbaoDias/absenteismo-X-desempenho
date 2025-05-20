@@ -61,3 +61,16 @@ Este projeto permite que gestores de RH:
 - **Código do Funcionário** (identificador único)
 - **Taxa de Absenteísmo (%)** (valor numérico)
 - **Resultado da Avaliação de Desempenho**
+
+
+## 📊 Arquivo de Exemplo
+
+Baixe a planilha modelo pronta para uso:  
+[modelo_avaliacao.xlsx](exemplos/modelo_avaliacao.xlsx)
+
+### Estrutura:
+| Código do Funcionário | Taxa de Absenteísmo (%) | Resultado da Avaliação de Desempenho |
+|-----------------------|-------------------------|--------------------------------------|
+| 001                   | 4.5                     | 7                                    |
+| 002                   | 15.2                    | *(deixe vazio para previsão)*        |
+| 003                   | 8.0                     | 6                                    |
