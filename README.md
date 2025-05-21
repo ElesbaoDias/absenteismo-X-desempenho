@@ -77,3 +77,7 @@ Baixe o modelo pronto para uso:
 
 *(Deixe vazio onde desejar previsões)*
 
+## 👨💻 Autor
+**Fábio Dias**  
+[<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20"> LinkedIn](https://www.linkedin.com/in/fabio-data-science)  
+[<img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="20"> Email](mailto:fabiodias.elesbao@gmail.com)
